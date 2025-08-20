@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0093-restore-ip-addresses) |
 | [1666-make-the-string-great](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-determine-if-string-halves-are-alike](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1823-determine-if-string-halves-are-alike) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
