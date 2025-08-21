@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0344-reverse-string) |
 | [0875-longest-mountain-in-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0875-longest-mountain-in-array) |
 ## String
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0093-restore-ip-addresses) |
+| [0344-reverse-string](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0344-reverse-string) |
 | [1666-make-the-string-great](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1823-determine-if-string-halves-are-alike) |
