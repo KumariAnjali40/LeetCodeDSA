@@ -25,24 +25,46 @@ class Solution {
 
         // 2 3 3 
 
-        Arrays.sort(nums);
+        // Arrays.sort(nums);
 
-        int count = 1; 
-        int ans = nums[0];
+        // int count = 1; 
+        // int ans = nums[0];
 
-        for(int i = 1; i < nums.length; i++){
-            if(nums[i] == nums[i-1]){
-                count++;
-                if(count > nums.length/2){
-                    ans = nums[i];
-                }
-            }else {
-               count = 1;
+        // for(int i = 1; i < nums.length; i++){
+        //     if(nums[i] == nums[i-1]){
+        //         count++;
+        //         if(count > nums.length/2){
+        //             ans = nums[i];
+        //         }
+        //     }else {
+        //        count = 1;
+        //     }
+        // }
+
+
+        // return ans;
+
+        int count = 0;
+        int candidate = nums[0];
+
+        // 2,2,1,1,1,2,2
+
+        for(int i = 0; i < nums.length; i++){
+            if(count == 0){
+                candidate = nums[i]; 
+                //1st --> candidate = 2
+                //2nd --> cand = 2
+                //3rd --> cand = 2
+                //5th --> cand 2
             }
+
+            count += (nums[i] == candidate ? 1 : -1); 
+
+            // 1st --> count = 1; 2nd --> count = 2; 3rd --> count = 1, 4th count = 0; 5th --> count = 1, count = 2,
+
         }
 
-
-        return ans;
+        return candidate;
 
     }
 }
