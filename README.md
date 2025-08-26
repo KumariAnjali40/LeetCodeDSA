@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0046-permutations) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0169-majority-element) |
