@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1813-maximum-erasure-value) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1813-maximum-erasure-value](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1813-maximum-erasure-value) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0090-subsets-ii) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
