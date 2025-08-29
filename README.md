@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0169-majority-element) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1823-determine-if-string-halves-are-alike) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
