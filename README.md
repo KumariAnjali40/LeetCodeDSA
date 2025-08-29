@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0875-longest-mountain-in-array) |
+| [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0209-minimum-size-subarray-sum) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
