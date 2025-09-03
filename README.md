@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1813-maximum-erasure-value) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2591-frog-jump-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2591-frog-jump-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Two Pointers
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [2591-frog-jump-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2591-frog-jump-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [2591-frog-jump-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2591-frog-jump-ii) |
 <!---LeetCode Topics End-->
