@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0326-power-of-three) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0213-house-robber-ii) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2591-frog-jump-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2591-frog-jump-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
