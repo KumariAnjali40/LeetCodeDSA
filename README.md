@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0189-rotate-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0403-frog-jump) |
