@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0416-partition-equal-subset-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0875-longest-mountain-in-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0967-minimum-falling-path-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0093-restore-ip-addresses) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0416-partition-equal-subset-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0875-longest-mountain-in-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0090-subsets-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -192,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0967-minimum-falling-path-sum) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
