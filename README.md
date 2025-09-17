@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0875-longest-mountain-in-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0967-minimum-falling-path-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [1666-make-the-string-great](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1666-make-the-string-great) |
 ## Counting
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1813-maximum-erasure-value](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1813-maximum-erasure-value) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
