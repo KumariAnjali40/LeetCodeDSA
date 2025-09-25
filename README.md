@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0120-triangle) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0283-move-zeroes) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0242-valid-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
