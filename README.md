@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0283-move-zeroes) |
 | [0403-frog-jump](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
