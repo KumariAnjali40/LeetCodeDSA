@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0875-longest-mountain-in-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0967-minimum-falling-path-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1813-maximum-erasure-value](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1813-maximum-erasure-value) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2591-frog-jump-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2591-frog-jump-ii) |
 ## Sliding Window
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1813-maximum-erasure-value](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1813-maximum-erasure-value) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Memoization
 |  |
 | ------- |
