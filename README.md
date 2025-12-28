@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0283-move-zeroes) |
 | [0403-frog-jump](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0416-partition-equal-subset-sum) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0560-subarray-sum-equals-k) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0268-missing-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Dynamic Programming
 |  |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0268-missing-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
@@ -188,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2591-frog-jump-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2591-frog-jump-ii) |
 ## Sliding Window
