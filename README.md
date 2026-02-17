@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0520-detect-capital) |
+| [1143-longest-common-subsequence](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1143-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1666-make-the-string-great](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1143-longest-common-subsequence) |
 ## Enumeration
 |  |
 | ------- |
