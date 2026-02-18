@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0875-longest-mountain-in-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0875-longest-mountain-in-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0875-longest-mountain-in-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0875-longest-mountain-in-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1143-longest-common-subsequence) |
@@ -269,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
