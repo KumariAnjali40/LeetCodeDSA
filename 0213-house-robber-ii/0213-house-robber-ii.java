@@ -1,36 +1,41 @@
 class Solution {
     public int rob(int[] nums) {
-
+        
         int n = nums.length;
 
-        if (n == 1) return nums[0];
+        if(nums.length == 1) return nums[0];
 
-        int ans1 = getMax(nums, 0, n-1);
-        int ans2 = getMax(nums, 1, n);
+        int [] dp1 = new int [n];
 
-        return Math.max(ans1, ans2);
-        
+        for(int i = 0; i < n; i++){
+            dp1[i] = -1;
+        }
+
+        int [] dp2 = new int [n];
+
+        for(int i = 0; i < n; i++){
+            dp2[i] = -1;
+        }
+
+        int a = solve(nums, dp1, 0, n-1);
+
+        int b = solve(nums, dp2, 1, n);
+
+        return Math.max(a, b);
     }
 
-    public static int getMax(int [] arr, int start,int end){
-        
-         int prev = 0; // dp[n-1]
-         int prev2 = 0; //dp[n-2]
+    public static int solve(int [] arr, int [] dp , int start, int end){
 
-         for(int i = start; i < end; i++){
-            int temp = arr[i];
-            
-            int take = temp + prev2;
+        if(start >= end) return 0;
 
-            int notTake = prev;
+        if(dp[start] != -1) return dp[start];
 
-            int max = Math.max(take, notTake);
+        int take = arr[start]+ solve(arr, dp, start+2, end);
 
-            prev2 = prev;
-            prev = max;
+        int skip = solve(arr, dp, start+1, end);
 
-         }
+        dp[start] = Math.max(take, skip);
 
-        return prev;
+        return dp[start];
     }
 }
