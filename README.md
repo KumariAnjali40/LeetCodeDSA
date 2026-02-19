@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0242-valid-anagram) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0063-unique-paths-ii) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0044-wildcard-matching) |
 | [2591-frog-jump-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2591-frog-jump-ii) |
 ## Combinatorics
 |  |
