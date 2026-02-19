@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0053-maximum-subarray) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0189-rotate-array) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0062-unique-paths) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 ## Union Find
 |  |
