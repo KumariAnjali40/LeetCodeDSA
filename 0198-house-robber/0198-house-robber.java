@@ -23,8 +23,6 @@ class Solution {
 
         int skip = solve(arr, i+1, dp);
 
-        dp[i] = Math.max(take, skip);
-
-        return dp[i];
+        return Math.max(take, skip);
     }
 }
