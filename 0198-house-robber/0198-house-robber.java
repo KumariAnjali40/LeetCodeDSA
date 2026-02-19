@@ -1,59 +1,30 @@
 class Solution {
     public int rob(int[] nums) {
 
-        // int [] dp = new int [nums.length+1];
+      int [] dp = new int [nums.length];
 
-        // for(int i = 0; i < nums.length; i++){
-        //     dp[i] = -1;
-        // }  
-        
-        // int ans = robber(nums, 0, dp);
+      for(int i = 0; i < nums.length;i++){
+        dp[i] = -1;
+      }
 
-        int n = nums.length;
 
-        if(n == 1) return nums[0];
-
-        int ans = solve(nums, n);
+        int ans = solve(nums, 0, dp);
 
         return ans;
     }
 
-    public static int solve(int [] arr, int n){
+    public static int solve(int [] arr, int i, int [] dp){
 
-        int prev = arr[0]; //dp[n-1]
+        if(i >= arr.length) return 0;
 
-        int prev1 = 0; //dp[n-2]
+        if(dp[i] != -1) return dp[i];
+       
+        int take = arr[i] + solve(arr, i+2, dp);
 
-        for(int i = 1; i < n; i++){
-            int temp = arr[i];
+        int skip = solve(arr, i+1, dp);
 
-            int take = temp + prev1;
-            int nonTake = prev;
+        dp[i] = Math.max(take, skip);
 
-            int curr = Math.max(take, nonTake);
-
-            prev1 = prev;
-            prev = curr;
-        }
-
-        return prev;
-
+        return dp[i];
     }
-
-    // public static int robber (int [] arr, int index, int [] dp){
-
-    //      if (index >= arr.length) {
-    //         return 0;
-    //     }
-
-    //     if (dp[index] != -1) {
-    //         return dp[index];
-    //     }
-
-    //     int steal = arr[index] + robber(arr, index + 2, dp);
-    //     int skip = robber(arr, index + 1, dp);
-
-    //     dp[index] = Math.max(steal, skip);
-    //     return dp[index];
-    // }
 }
