@@ -11,18 +11,21 @@ class Solution {
             high += nums[i];
         }
 
-        while (low < high){
+        int ans = 0;
+
+        while (low <= high){
 
             int mid = low + (high - low)/2;
 
             if(canAllocated(nums, n, k, mid)){
-                high = mid;
+                ans = mid;
+                high = mid-1;
             }else {
                 low = mid+1;
             }
         }
 
-        return low;
+        return ans;
     }
 
     public static boolean canAllocated(int [] arr, int n, int k , int max){
