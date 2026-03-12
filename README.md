@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0007-reverse-integer](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0012-integer-to-roman) |
@@ -14,16 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0039-combination-sum) |
@@ -70,8 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0075-sort-colors) |
@@ -83,8 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0908-middle-of-the-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0012-integer-to-roman) |
@@ -104,22 +104,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [1666-make-the-string-great](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1666-make-the-string-great) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0169-majority-element) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1823-determine-if-string-halves-are-alike) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
@@ -130,8 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0093-restore-ip-addresses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0012-integer-to-roman) |
@@ -151,14 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0049-group-anagrams](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0169-majority-element) |
@@ -166,8 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0268-missing-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0044-wildcard-matching) |
@@ -189,18 +189,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1143-longest-common-subsequence) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0875-longest-mountain-in-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0875-longest-mountain-in-array) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0908-middle-of-the-linked-list) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0078-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0136-single-number) |
@@ -208,8 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -218,8 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2591-frog-jump-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2591-frog-jump-ii) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -228,84 +228,84 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0070-climbing-stairs) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1013-fibonacci-number) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0044-wildcard-matching](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [2591-frog-jump-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2591-frog-jump-ii) |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0062-unique-paths) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0994-rotting-oranges) |
 ## Bitmask
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 ## Union Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0128-longest-consecutive-sequence) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0994-rotting-oranges](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0543-diameter-of-binary-tree) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
