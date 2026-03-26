@@ -1,60 +1,34 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int ans = longestSub(s);
+        
+       HashMap<Character, Integer> map = new HashMap<>();
 
-        return ans;
-    }
-
-    public static int longestSub(String s){
-        HashMap<Character,Integer> map = new HashMap<>();
-
-        int max = 0;
         int i = 0;
         int j = 0;
+        int max = 0;
 
-        while(j < s.length()){
-            
-           char ch = s.charAt(j);
+        while (j < s.length()){
 
-        //    while(map.containsKey(ch)){
-        //      char leftChar = s.charAt(i);
+            char ch = s.charAt(j);
 
-        //      map.put(leftChar, map.get(ch)-1);
+             while(map.containsKey(ch) && i < j){
+                char ch1 = s.charAt(i);
+                map.put(ch1, map.getOrDefault(ch1, 0)-1);
 
-
-        //      if(map.get(leftChar) == 0){
-        //         map.remove(leftChar);
-        //      }
-        //      i++;
-        //    }
-
-        //    map.put(ch, 1);
-
-        //    max = Math.max(max, j - i + 1);
-
-        //    j++;
-
-           map.put(ch, map.getOrDefault(ch, 0) + 1);
-
-           while(map.size() < j - i + 1){
-             char leftChar = s.charAt(i);
-
-             map.put(leftChar, map.get(leftChar)-1);
-
-             if(map.get(leftChar) == 0){
-                map.remove(leftChar);
+                if(map.get(ch1) == 0){
+                    map.remove(ch1);
+                }
+                i++;
              }
 
-             i++;
-           }
+             map.put(ch, map.getOrDefault(ch, 0)+1);
 
-           max = Math.max(max, j - i + 1);
-
-           j++;
-
+             max = Math.max(max, j-i+1);
+             j++;
         }
 
-         return max;
+        return max;
+
 
     }
 }
