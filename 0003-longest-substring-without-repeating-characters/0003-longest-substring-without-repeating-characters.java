@@ -11,20 +11,29 @@ class Solution {
 
             char ch = s.charAt(j);
 
-             while(map.containsKey(ch) && i < j){
+            //  while(map.containsKey(ch) && i < j){
+            //     char ch1 = s.charAt(i);
+            //     map.put(ch1, map.getOrDefault(ch1, 0)-1);
+
+            //     if(map.get(ch1) == 0){
+            //         map.remove(ch1);
+            //     }
+            //     i++;
+            //  }
+
+
+            if(map.containsKey(ch) && i < j){
                 char ch1 = s.charAt(i);
-                map.put(ch1, map.getOrDefault(ch1, 0)-1);
-
-                if(map.get(ch1) == 0){
-                    map.remove(ch1);
-                }
+    
+                 map.remove(ch1);
+   
                 i++;
+             }else {
+                  map.put(ch, map.getOrDefault(ch, 0)+1);
+
+                   max = Math.max(max, j-i+1);
+                   j++;
              }
-
-             map.put(ch, map.getOrDefault(ch, 0)+1);
-
-             max = Math.max(max, j-i+1);
-             j++;
         }
 
         return max;
