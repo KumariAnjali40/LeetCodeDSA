@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1046-max-consecutive-ones-iii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2591-frog-jump-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/2591-frog-jump-ii) |
@@ -318,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0547-number-of-provinces) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
