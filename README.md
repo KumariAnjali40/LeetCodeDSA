@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0283-move-zeroes) |
 | [0403-frog-jump](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0403-frog-jump) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/KumariAnjali40/LeetCodeDSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/KumariAnjali40/LeetCodeDSA/tree/master/1046-max-consecutive-ones-iii) |
